@@ -5,7 +5,7 @@ const User = ({user}) => {
     const userStyle ={
         border: '2px solid yellow',
         padding: '5px',
-        borderRadious:'20px',
+        borderRadius:'20px',
     }
     return (
         <div style={userStyle}>
